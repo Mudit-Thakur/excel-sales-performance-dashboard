@@ -83,7 +83,7 @@ The dataset includes:
 
 ## 📸 Dashboard Preview
 
-(https://github.com/Mudit-Thakur/excel-sales-performance-dashboard/blob/main/Company%20Performance%20Dashboard.png)
+![Sales Dashboard](https://github.com/Mudit-Thakur/excel-sales-performance-dashboard/blob/main/Company%20Performance%20Dashboard.png)
 
 ---
 
